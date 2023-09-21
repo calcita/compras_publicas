@@ -1,0 +1,19 @@
+Variable,Descripción
+articulo,nombre del artículo (producto o servicio)
+iditem,identificación del artículo
+cod_fam,código de la familia del artículo
+cod_subfam,código de la sub-familia del artículo
+familia,descripción de la familia
+sub_familia,descripción de la sub-familia
+codigo_fiscal,RUT del proveedor
+denominacion_social,denominación social de proveedor
+fecha,fecha de la compra (adjudicación)
+ocid,identificador de la compra
+monto_item,precio unitario del artículo
+cantidad,cantidad comprada del articulo
+monto_item_total,monto total comprado del artículo (monto_item x cantidad)
+monto_compra,monto total de la compra
+organismo_sigla,organismo comprador
+cod_compra,código del tipo de compra
+tipo_compra,descripción del tipo de compra
+url,link a la compra en la web de ARCE
