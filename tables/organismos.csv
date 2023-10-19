@@ -1,0 +1,67 @@
+organismo_nombre,organismo_sigla,categoria,organismo_codigo
+Presidencia de la República,Presidencia,Administración Central ,1
+Ministerio de Economía y Finanzas,MEF,Administración Central ,2
+Ministerio del Interior,MI,Administración Central ,3
+Ministerio de Transporte y Obras Públicas,MTOP,Administración Central ,4
+"Ministerio de Ganadería, Agricultura y Pesca",MGAP,Administración Central ,5
+"Ministerio de Industria, Energía y Minería",MIEM,Administración Central ,6
+Ministerio de Educación y Cultura,MEC,Administración Central ,7
+"Ministerio de Vivienda, Ordenamiento Territorial y Medio Ambiental",MVOTMA,Administración Central ,8
+Corte Electoral,CE,Otros,9
+Ministerio de Defensa Nacional,MDN,Administración Central ,10
+Ministerio de Trabajo y Seguridad Social,MTSS,Administración Central ,11
+Ministerio de Turismo,MT,Administración Central ,12
+Instituto del Niño y el Adolescente del Uruguay,INAU,Servicios descentralizados,13
+Ministerio de Desarrollo Social,MIDES,Administración Central ,14
+Ministerio de Relaciones Exteriores,MRREE,Administración Central ,15
+Diversos Créditos,Div.Créd.,Otros,16
+Ministerio de Salud Pública,MSP,Administración Central ,17
+Administración de Servicios de Salud del Estado,ASSE,Servicios descentralizados,18
+Banco Central del Uruguay,BCU,Entes autónomos ,19
+Poder Judicial,PJ,Otros,20
+Agencia Nacional de Vivienda,ANV,Servicios descentralizados,21
+Universidad de la República,UdelaR,Entes autónomos ,22
+Administración Nacional de Educación Pública,ANEP,Entes autónomos ,23
+Banco de la República del Uruguay,BROU,Entes autónomos ,24
+Intendencia de Río Negro,I. Río Negro,Gobiernos Departamentales ,25
+Poder Legislativo,P. Legislativo,Otros,26
+Instituto Nacional de Colonización,INC,Entes autónomos ,27
+Intendencia de Montevideo,I. Montevideo,Gobiernos Departamentales ,28
+Intendencia de Salto,I. Salto,Gobiernos Departamentales ,29
+Intendencia de Rocha,I. Rocha,Gobiernos Departamentales ,30
+Banco de Prevision Social,BPS,Entes autónomos ,31
+Administración de las Obras Sanitarias del Estado,OSE,Servicios descentralizados,32
+Banco de Seguros del Estado,BSE,Entes autónomos ,33
+Administración Nacional de Correos,ANC,Servicios descentralizados,34
+Intendencia de San José,I. San José,Gobiernos Departamentales ,35
+Intendencia de Paysandú,I. Paysandú,Gobiernos Departamentales ,36
+Intendencia de Durazno,I. Durazno,Gobiernos Departamentales ,37
+Intendencia de Tacuarembó,I. Tacuarembó,Gobiernos Departamentales ,38
+Intendencia de Rivera,I. Rivera,Gobiernos Departamentales ,39
+Banco Hipotecario del Uruguay,BHU,Entes autónomos ,40
+Intendencia de Flores,I. Flores,Gobiernos Departamentales ,41
+Administración de los Ferrocarriles del Estado,AFE,Entes autónomos ,42
+Intendencia de Colonia,I. Colonia,Gobiernos Departamentales ,43
+Intendencia de Florida,I. Florida,Gobiernos Departamentales ,44
+Intendencia de Artigas,I. Artigas,Gobiernos Departamentales ,45
+Intendencia de Maldonado,I. Maldonado,Gobiernos Departamentales ,46
+Intendencia de Treinta y Tres,I. Treinta y Tres,Gobiernos Departamentales ,47
+Intendencia de Canelones,I. Canelones,Gobiernos Departamentales ,48
+Intendencia de Cerro Largo,I. Cerro Largo,Gobiernos Departamentales ,49
+Universidad Tecnológica del Uruguay,UTEC,Entes autónomos ,50
+Tribunal de Cuentas,TC,Otros,51
+Instituto Uruguayo de Meteorología,INUMET,Servicios descentralizados,52
+Fiscalía General de la Nación,FGN,Servicios descentralizados,53
+Junta de Transparencia y Ética Pública,JUTEP,Otros,54
+Intendencia de Soriano,I. Soriano,Gobiernos Departamentales ,55
+Administración Nacional de Usinas y Trasmisiones Eléctricas,UTE,Entes autónomos ,56
+Intendencia de Lavalleja,I. Lavalleja,Gobiernos Departamentales ,57
+Instituciones sin fines de lucro públicas,Instituciones sin fines de lucro públicas,Otros,58
+"Administración Nacional de Combustible, Alcohol y Portland",ANCAP,Entes autónomos ,59
+Instituto Nacional de Inclusión Social Adolescente,INISA,Servicios descentralizados,60
+Tribunal de lo Contencioso-Administrativo,TCA,Otros,61
+Unidad Reguladora de Servicios de Comunicaciones,URSEC,Servicios descentralizados,62
+Unidad Reguladora de Servicios de Energía y Agua,URSEA,Servicios descentralizados,63
+Ministerio de Medio Ambiente,MA,Administración Central ,64
+Administración Nacional de Telecomunicaciones,ANTEL,Servicios descentralizados,65
+Administración Nacional de Puertos,ANP,Servicios descentralizados,66

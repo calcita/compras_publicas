@@ -1,0 +1,62 @@
+                .btn-default.btn {
+                      color: #86acac;
+                      background-color: #fff;
+                      border: 2px #86acac solid;
+                      }
+                      .btn-default.btn:hover {
+                      color: #fff;
+                      background-color: #86acac;
+                      }
+                      .btn-default.active {
+                      color: #fff;
+                      background-color: #86acac !important;
+                      border-color: #86acac;
+                      }
+                     .btn-success.active {
+                      color: #fff;
+                      background-color: red;
+                      border-color: red;
+                      }
+                      .btn-primary.btn {
+                      color: black;
+                      background-color: transparent;
+                      border: transparent !important;
+                      }
+                      .btn-primary.btn:hover {
+                      color: #fff;
+                      background-color: transparent;
+                      }
+                      .btn-primary.active {
+                      color: #fff;
+                      background-color: transparent;
+                      border-color: transparent !important;
+                      }
+                     .tooltip > .tooltip-inner {
+                      width: 400px;
+                      color: white;
+                      background-color: #86acac;
+                     }
+                     pre {
+                     color: white;
+                     background-color: #d0e0e1;
+                     }
+                    .js-irs-0 .irs-single, .js-irs-0 .irs-bar-edge, .js-irs-0 .irs-bar {
+                      background: #86acac;
+                      border-top: 1px solid #86acac ;
+                      border-bottom: 1px solid #86acac ;
+                    }
+                    /* changes the colour of the number tags */
+                    .irs-from, .irs-to, .irs-single .irs-handle {
+                      background: #86acac 
+                    }
+                    .irs--shiny .irs-handle {
+                      background: #86acac;
+                      border: 1px solid #c41818;
+                    }
+                    /*silent shiny warnings */
+                    .shiny-output-error {
+                      visibility: hidden;
+                      }
+                    .shiny-output-error:before {
+                      visibility: hidden; 
+                    }

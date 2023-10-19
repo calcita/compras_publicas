@@ -1,0 +1,116 @@
+organismo_sigla,trimestre,monto_total,anio,tri,Trimestre,monto_cuartil,cuartil
+Div.Créd.,2017.1,112,2017,1,1,Cuartil 4,4
+Div.Créd.,2017.2,163,2017,2,2,Cuartil 4,4
+Div.Créd.,2017.3,83,2017,3,3,Cuartil 4,4
+Div.Créd.,2017.4,71,2017,4,4,Cuartil 4,4
+JUTEP,2017.1,1,2017,1,1,Cuartil 1,1
+JUTEP,2017.2,0,2017,2,2,Cuartil 1,1
+JUTEP,2017.3,0,2017,3,3,Cuartil 1,1
+JUTEP,2017.4,1,2017,4,4,Cuartil 1,1
+P. Legislativo,2017.1,3,2017,1,1,Cuartil 2,2
+P. Legislativo,2017.2,9,2017,2,2,Cuartil 3,3
+P. Legislativo,2017.3,6,2017,3,3,Cuartil 2,2
+P. Legislativo,2017.4,20,2017,4,4,Cuartil 3,3
+PJ,2017.1,10,2017,1,1,Cuartil 3,3
+PJ,2017.2,18,2017,2,2,Cuartil 3,3
+PJ,2017.3,35,2017,3,3,Cuartil 3,3
+PJ,2017.4,35,2017,4,4,Cuartil 3,3
+TC,2017.1,0,2017,1,1,Cuartil 1,1
+TC,2017.2,1,2017,2,2,Cuartil 1,1
+TC,2017.3,1,2017,3,3,Cuartil 1,1
+TC,2017.4,7,2017,4,4,Cuartil 2,2
+Div.Créd.,2018.1,44,2018,1,5,Cuartil 4,4
+Div.Créd.,2018.2,29,2018,2,6,Cuartil 4,4
+Div.Créd.,2018.3,49,2018,3,7,Cuartil 4,4
+Div.Créd.,2018.4,283,2018,4,8,Cuartil 4,4
+Instituciones sin fines de lucro públicas,2018.3,2,2018,3,7,Cuartil 2,2
+Instituciones sin fines de lucro públicas,2018.4,2,2018,4,8,Cuartil 2,2
+JUTEP,2018.1,1,2018,1,5,Cuartil 1,1
+JUTEP,2018.2,0,2018,2,6,Cuartil 1,1
+JUTEP,2018.3,2,2018,3,7,Cuartil 2,2
+JUTEP,2018.4,1,2018,4,8,Cuartil 1,1
+P. Legislativo,2018.1,7,2018,1,5,Cuartil 3,3
+P. Legislativo,2018.2,4,2018,2,6,Cuartil 2,2
+P. Legislativo,2018.3,6,2018,3,7,Cuartil 3,3
+P. Legislativo,2018.4,7,2018,4,8,Cuartil 3,3
+PJ,2018.1,24,2018,1,5,Cuartil 3,3
+PJ,2018.2,18,2018,2,6,Cuartil 3,3
+PJ,2018.3,38,2018,3,7,Cuartil 4,4
+PJ,2018.4,35,2018,4,8,Cuartil 4,4
+TC,2018.1,0,2018,1,5,Cuartil 1,1
+TC,2018.2,0,2018,2,6,Cuartil 1,1
+TC,2018.3,0,2018,3,7,Cuartil 1,1
+TC,2018.4,1,2018,4,8,Cuartil 1,1
+Div.Créd.,2019.1,70,2019,1,9,Cuartil 4,4
+Div.Créd.,2019.2,69,2019,2,10,Cuartil 4,4
+Div.Créd.,2019.3,53,2019,3,11,Cuartil 3,3
+Div.Créd.,2019.4,80,2019,4,12,Cuartil 4,4
+Instituciones sin fines de lucro públicas,2019.1,1,2019,1,9,Cuartil 1,1
+Instituciones sin fines de lucro públicas,2019.2,1,2019,2,10,Cuartil 1,1
+Instituciones sin fines de lucro públicas,2019.3,1,2019,3,11,Cuartil 1,1
+JUTEP,2019.1,1,2019,1,9,Cuartil 1,1
+JUTEP,2019.2,0,2019,2,10,Cuartil 1,1
+JUTEP,2019.3,1,2019,3,11,Cuartil 1,1
+JUTEP,2019.4,1,2019,4,12,Cuartil 1,1
+P. Legislativo,2019.1,8,2019,1,9,Cuartil 3,3
+P. Legislativo,2019.2,6,2019,2,10,Cuartil 2,2
+P. Legislativo,2019.3,3,2019,3,11,Cuartil 2,2
+P. Legislativo,2019.4,61,2019,4,12,Cuartil 4,4
+PJ,2019.1,15,2019,1,9,Cuartil 3,3
+PJ,2019.2,14,2019,2,10,Cuartil 3,3
+PJ,2019.3,25,2019,3,11,Cuartil 3,3
+PJ,2019.4,125,2019,4,12,Cuartil 4,4
+TC,2019.1,0,2019,1,9,Cuartil 1,1
+TC,2019.4,0,2019,4,12,Cuartil 1,1
+CE,2020.1,1,2020,1,13,Cuartil 2,2
+CE,2020.2,0,2020,2,14,Cuartil 1,1
+CE,2020.3,1,2020,3,15,Cuartil 2,2
+CE,2020.4,0,2020,4,16,Cuartil 1,1
+Div.Créd.,2020.1,464,2020,1,13,Cuartil 4,4
+Div.Créd.,2020.2,37,2020,2,14,Cuartil 4,4
+Div.Créd.,2020.3,52,2020,3,15,Cuartil 4,4
+Div.Créd.,2020.4,54,2020,4,16,Cuartil 4,4
+JUTEP,2020.1,1,2020,1,13,Cuartil 2,2
+JUTEP,2020.2,0,2020,2,14,Cuartil 1,1
+JUTEP,2020.3,0,2020,3,15,Cuartil 1,1
+JUTEP,2020.4,1,2020,4,16,Cuartil 2,2
+P. Legislativo,2020.1,3,2020,1,13,Cuartil 3,3
+P. Legislativo,2020.2,2,2020,2,14,Cuartil 3,3
+P. Legislativo,2020.3,6,2020,3,15,Cuartil 3,3
+P. Legislativo,2020.4,9,2020,4,16,Cuartil 3,3
+PJ,2020.1,21,2020,1,13,Cuartil 4,4
+PJ,2020.2,7,2020,2,14,Cuartil 3,3
+PJ,2020.3,12,2020,3,15,Cuartil 3,3
+PJ,2020.4,26,2020,4,16,Cuartil 4,4
+TC,2020.1,1,2020,1,13,Cuartil 2,2
+TC,2020.3,0,2020,3,15,Cuartil 1,1
+TC,2020.4,0,2020,4,16,Cuartil 1,1
+TCA,2020.4,1,2020,4,16,Cuartil 2,2
+CE,2021.3,17,2021,3,19,Cuartil 4,4
+CE,2021.4,7,2021,4,20,Cuartil 3,3
+Div.Créd.,2021.1,12,2021,1,17,Cuartil 3,3
+Div.Créd.,2021.2,57,2021,2,18,Cuartil 4,4
+Div.Créd.,2021.3,70,2021,3,19,Cuartil 4,4
+Div.Créd.,2021.4,228,2021,4,20,Cuartil 4,4
+Instituciones sin fines de lucro públicas,2021.1,1,2021,1,17,Cuartil 1,1
+Instituciones sin fines de lucro públicas,2021.2,1,2021,2,18,Cuartil 1,1
+Instituciones sin fines de lucro públicas,2021.3,1,2021,3,19,Cuartil 1,1
+Instituciones sin fines de lucro públicas,2021.4,2,2021,4,20,Cuartil 2,2
+JUTEP,2021.1,1,2021,1,17,Cuartil 1,1
+JUTEP,2021.2,0,2021,2,18,Cuartil 1,1
+JUTEP,2021.3,1,2021,3,19,Cuartil 1,1
+JUTEP,2021.4,0,2021,4,20,Cuartil 1,1
+P. Legislativo,2021.1,4,2021,1,17,Cuartil 3,3
+P. Legislativo,2021.2,16,2021,2,18,Cuartil 4,4
+P. Legislativo,2021.3,11,2021,3,19,Cuartil 3,3
+P. Legislativo,2021.4,13,2021,4,20,Cuartil 3,3
+PJ,2021.1,20,2021,1,17,Cuartil 4,4
+PJ,2021.2,7,2021,2,18,Cuartil 3,3
+PJ,2021.3,13,2021,3,19,Cuartil 3,3
+PJ,2021.4,19,2021,4,20,Cuartil 4,4
+TC,2021.1,0,2021,1,17,Cuartil 1,1
+TC,2021.3,0,2021,3,19,Cuartil 1,1
+TC,2021.4,1,2021,4,20,Cuartil 1,1
+TCA,2021.2,0,2021,2,18,Cuartil 1,1
+TCA,2021.3,0,2021,3,19,Cuartil 1,1
+TCA,2021.4,1,2021,4,20,Cuartil 1,1

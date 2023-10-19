@@ -1,0 +1,66 @@
+AFE
+ANC
+ANCAP
+ANEP
+ANP
+ANTEL
+ANV
+ASSE
+BCU
+BHU
+BPS
+BROU
+BSE
+CE
+Div.Créd.
+FGN
+I. Artigas
+I. Canelones
+I. Cerro Largo
+I. Colonia
+I. Durazno
+I. Flores
+I. Florida
+I. Lavalleja
+I. Maldonado
+I. Montevideo
+I. Paysandú
+I. Río Negro
+I. Rivera
+I. Rocha
+I. Salto
+I. San José
+I. Soriano
+I. Tacuarembó
+I. Treinta y Tres
+INAU
+INC
+INISA
+Instituciones sin fines de lucro públicas
+INUMET
+JUTEP
+MA
+MDN
+MEC
+MEF
+MGAP
+MI
+MIDES
+MIEM
+MRREE
+MSP
+MT
+MTOP
+MTSS
+MVOTMA
+OSE
+P. Legislativo
+PJ
+Presidencia
+TC
+TCA
+UdelaR
+URSEA
+URSEC
+UTE
+UTEC

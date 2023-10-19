@@ -1,0 +1,16 @@
+organismo_codigo,monto_total,organismo_nombre,organismo_sigla,categoria
+5,330,"Ministerio de Ganadería, Agricultura y Pesca",MGAP,Administración Central
+16,405,Diversos Créditos,Div.Créd.,Otros
+23,442,Administración Nacional de Educación Pública,ANEP,Entes autónomos
+24,526,Banco de la República del Uruguay,BROU,Entes autónomos
+17,707,Ministerio de Salud Pública,MSP,Administración Central
+66,777,Administración Nacional de Puertos,ANP,Servicios descentralizados
+10,794,Ministerio de Defensa Nacional,MDN,Administración Central
+2,816,Ministerio de Economía y Finanzas,MEF,Administración Central
+19,922,Banco Central del Uruguay,BCU,Entes autónomos
+28,1207,Intendencia de Montevideo,I. Montevideo,Gobiernos Departamentales
+48,1407,Intendencia de Canelones,I. Canelones,Gobiernos Departamentales
+3,1453,Ministerio del Interior,MI,Administración Central
+18,1717,Administración de Servicios de Salud del Estado,ASSE,Servicios descentralizados
+56,3198,Administración Nacional de Usinas y Trasmisiones Eléctricas,UTE,Entes autónomos
+32,3765,Administración de las Obras Sanitarias del Estado,OSE,Servicios descentralizados

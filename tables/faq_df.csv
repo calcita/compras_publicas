@@ -1,0 +1,10 @@
+num,question,answer
+1,¿Están incluídos todos los organismos?,Las empresas públicas no están obligadas a publicar. Los gobiernos departamentales han ido mejorando los datos. 
+2,¿Están todas las compras y contrataciones?,"Esta base sólo incluye las compras adjudicadas. Se excluyen compras canceladas, compras realizas a través de Convenios Marco y compras directas cuyos montos son inferiores a..."
+3,¿Cuáles son los tipos de compra en Uruguay?,"Según el TOCAF, los mecanismos de contratación que puede realizar un organismo público son: Compra Directa, Compra por Excepción, Concurso de Precios, Licitación Abreviada, Licitación Pública, Arrendamiento de Obra, PFI-Comparación de Precios, PFI-Contratación Directa, PFI-Licitación Pública Internacional, PFI-Licitación Pública Nacional, Pregón y Procedimiento Especial. Estas últimas siete categorías las hemos agrupado en la categoría otros porque presentan muy pocos casos."
+4,¿En que moneda están expresados los montos?,"Todos los montos están expresados en pesos uruguayos de 2010, por lo tanto, si la moneda de la transacción fue extranjera se realizó la conversión correspondiente."
+5,¿Los montos están expresados en precios corrientes o constantes?,Todos los montos están expresados en pesos uruguayos de 2010. Cuando se expresan en miles o millones de pesos se indica explícitamente.
+6,¿Una compra puede incluir más de un producto/servicio y más de un proveedor?,"Sí, una misma compra (ocid) puede incluir diferentes productos/servicios y diferentes proveedores."
+7,"La fecha de la compra, ¿es la fecha en que se efectivizó el gasto?",La fecha disponible corresponde a la fecha de publicación de la adjudicación en la web de ARCE.
+8,¿Qué es el tipo de compra?,El mecanismo por el cual el Estado contrata a un proveedor.
+9,¿Cómo puedo contribuir a mejorar el código?,Son bienvenidas las contribuciones para mejorar el código. Si usas Github puedes hacer un pull request en el repositorio. En este caso te pedimos que sea un cambio puntual para que tenga más éxito de ser aprobado. También puedes completar el formulario de contacto comentándonos tu interés de contribuir y te responderemos a la brevedad.

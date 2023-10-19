@@ -1,0 +1,332 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="gmathieu">
+    <meta name="description" content="">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Title -->
+    <title>Compras estatales</title>
+    <!-- Shiny added header -->
+      {{ headContent() }}
+    
+    <!-- Place favicon.ico in the root directory -->
+    <!--<link rel="apple-touch-icon" href="images/apple-touch-icon.png">-->
+    <!--<link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />-->
+    <!-- Plugin-CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css"> 
+    <link rel="stylesheet" href="css/owl.carousel.min.css"> 
+    <link rel="stylesheet" href="css/themify-icons.css"> 
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/animate.css"> 
+    <!-- Main-Stylesheets -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+       <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <!--Modules CSS-->
+    <link rel="stylesheet" href="modules/pretty_value_box/css/style.css">
+    <link rel="stylesheet" href="modules/graph_table/css/style.css">
+</head>
+
+<body data-spy="scroll" data-target="#primary-menu">
+
+  
+    <!--Mainmenu-area-->
+    <div class="mainmenu-area" data-spy="affix" data-offset-top="100">
+        <div class="container">
+            <!--Logo-->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-menu">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="https://shiny.fcea.udelar.edu.uy/compras_estatales/" target="_blank" class="navbar-brand logo">
+                    <h5>Monitor<br>Compras<br>Públicas</h5>
+                </a>
+            </div>
+            <!--Logo/-->
+            <nav class="collapse navbar-collapse" id="primary-menu">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="#home-page">Inicio</a></li>
+                    <li><a href="#visualizaciones">Visualizaciones</a></li>
+                    <li><a href="#datos">Datos</a></li>
+                    <li><a href="#faq">FAQ</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                    <li><a href="#about">Quiénes somos</a></li>
+               </ul>
+            </nav>
+        </div>
+    </div>
+    <!--Mainmenu-area/-->
+
+
+    <!--Header-area-->
+    <header class="header-area overlay full-height relative v-center" id="home-page">
+        <div class="absolute anlge-bg"></div>
+        <div class="container">
+            <div class="row v-center">
+                <div class="col-xs-12 col-md-7 header-text">
+                    <h2>Compras públicas</h2>
+                    <p>
+                      Consulta las compras públicas de 2002 a 2021.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--Header-area/-->
+
+
+    <section class="testimonial-area section-padding gray-bg overlay" id="visualizaciones">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
+                    <div class="page-title">
+                        <h2>Visualizaciones</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+                    <div class="testimonials">
+                      
+                      <div class="testimonial">
+                        <div class="testimonial-photo">
+                    
+                        </div>
+                      </div>
+                      
+                      <div class="testimonial">
+                        <div class="testimonial-photo">
+                      
+                        </div>
+                      </div>
+                      
+                      <div class="testimonial">
+                        <div class="testimonial-photo">
+                       
+                        </div>
+                      </div>
+                      
+                      <div class="testimonial">
+                        <div class="testimonial-photo">
+                     
+                        </div>
+                      </div>
+
+                       </div>
+                </div>
+            </div>
+             {{ carrusel }}
+        </div>
+    </section>
+    
+    <!-- Featured packages -->
+
+     <!--Feature-area-->
+    <section class="gray-bg section-padding" id="visualizaciones">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <div class="page-title">
+                        <h2>Explorar compras</h2>
+                        <p>Ahora es tu oportunidad de explorar el comportamiento de tres dimensiones: organismos que compran, proveedores que venden y productos y servicios que se adquieren o contratan. Una vez elegido, podés explorar en particular el organismo, el proveedor (por nombre o RUT) o el producto de tu interés (por nombre o familia). El paso siguiente es elegir si la información la querés por monto o por cantidad y para que año o grupo de años. Podés incluir las obras de infraestructura o excluirlas si sus (grandes) montos dificultan observar a otros productos. Por último, podes plantear las mismas preguntas guía de nuestro carrusel de visualización: CUÁNTO, CUÁNDO, A QUIÉN, CÓMO. 
+                      </p> 
+                    </div>
+                </div>
+            </div>
+      {{ explorar }}
+        </div>
+    </section>
+    <!--Feature-area/-->
+    <section class="gray-bg section-padding" id="visualizaciones">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <div class="page-title">
+                        <h2>Histórico</h2>
+                        <p>En este panel, podés explorar la misma información pero en términos históricos. Podés seleccionar un organismo o grupo de organismos, así como un año o grupo de años. También podés analizar evolución por proveedores y por producto. </p>
+                    </div>
+                </div>
+            </div>
+      {{ historico }}
+        </div>
+    </section>
+    <!--Feature-area-->
+    <section class="gray-bg section-padding" id="datos">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <div class="page-title">
+                        <h2>Datos</h2>
+                        <p>Si te interesa descargar la información para realizar tus propios análisis, podés hacerlo en esta sección. </p>
+                        <p>Para descargar la base de datos completa (todas las compras, de todos los organismos, entre 2002-2021), haz click aquí.</p>
+                        <p>Para visualizar o descargar un subconjunto de los datos, u otras tablas con información, selecciona el Conjunto de Datos de tu interés. Para entender la interacción entre tablas, haz click <a href ='https://github.com/calcita/compras_publicas/blob/main/esquema_tablas.png?raw=true' style="background-color:powderblue"> aquí </a>.</p>
+                    </div>
+                </div>
+            </div>
+      {{ datos }}
+        </div>
+    </section>
+    <!--Feature-area/-->
+
+    <!--Feature-area-->
+    <section class="gray-bg section-padding" id="faq">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <div class="page-title">
+                        <h2>Preguntas frecuentes</h2>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+      {{ faq }}
+        </div>
+    </section>
+    <!--Feature-area/-->
+
+    <!--Feature-area-->
+    <section class="gray-bg section-padding" id="contacto">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <div class="page-title">
+                        <h2>Contacto</h2>
+                        <p>Podés contactarnos para enviarnos comentarios y/o sugerencias así como para mostrarnos algún error. Los datos pueden contener errores de origen o faltantes de información y también el procesamiento que realizamos también puede ser fuente de errores. </p>
+                        <p> En caso de que detectes algún dato que te parezca incorrecto podés contactarnos a través del siguiente formulario. Asimismo, si te gustaría contribuir con el código para implementar nuevas visualizaciones o hacerle mejoras, podés hacer un pull request para lo que te recomendamos leas esta breve guía o nos contactes directamente. </p>
+                        <p>Este <a href="https://forms.gle/4BDERPjYx7AUN2Ry7" style="background-color:powderblue">link</a> te redirige a la página del formulario de contacto.</p>
+                    </div>
+                </div>
+            </div>
+      <iframe id="form"
+    title="Formulario de contacto"
+    width="0%"
+    height="0"
+    frameborder = 0
+    marginheight = 0
+    src="https://forms.gle/mQfHB7SMcwkxtCCf8">
+</iframe>
+        </div>
+    </section>
+    <!--Feature-area/-->
+
+    <footer class="footer-area relative sky-bg" id="about">
+        <div class="absolute footer-bg"></div>
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 text-center">
+                        <div class="page-title">
+                            <h2>Sobre la app</h2>
+                            <p style="text-align: left">
+                               El Monitor de Compras Estatales es una herramienta interactiva, desarrollada con el objetivo de acercar información relevante de forma accesible e interactiva sobre las compras públicas en Uruguay. Esta aplicación permite explorar los datos y crear visualizaciones sobre cantidad y calidad del gasto público de todos los niveles de gobierno de los últimos 20 años.
+                            </p>
+                            <h3>PROYECTO</h3>
+                            <p style="text-align: left">
+                              Este proyecto propone documentar las principales características de los procesos de compras y contrataciones del Estado y la calidad del gasto a partir de la disponibilización, visualización y análisis de información de las compras y contrataciones de los organismos públicos de Uruguay. Surge de investigadores del Departamento de Economía de la Facultad de Ciencias Económicas y de Administración (FCEA) de la Universidad de la República y la asociación civil CÍVICO.
+                              
+El proyecto fue financiado por el Fondo María Viñas 2020 (FMV_2_2020_1_162132) de la Agencia Nacional de Investigación e Innovación (ANII). 
+                            </p>
+                            
+                            <h3>DATOS</h3>
+                            <p style="text-align: left">
+                              La principal fuente de datos que utiliza esta aplicación son los publicados en formato de datos abiertos por la <a href="https://www.comprasestatales.gub.uy" target="_blank">Agencia Reguladora de Compras Estatales (ARCE)</a>, disponibles en el formato del Estándar de Datos de la Open Contracting Partnership. Este formato es un estándar global que permite visualizar el ciclo de cada compra o contratación (apertura, adjudicación e implementación) realizada por un organismo público. Para facilitar el análisis, en esta aplicación sólo se incluyen datos de compras ya adjudicadas. 
+                              
+También son fuentes de datos de esta aplicación el Registro Único de Proveedores del Estado (RUPE), las observaciones del Tribunal de Cuentas, los presupuestos desagregados y el personal contratado. 
+
+El trabajo de limpieza y procesamiento estuvo a cargo y es responsabilidad del equipo de investigación del proyecto. Los códigos usados y las decisiones metodológicas se encuentran disponibles, a fin de ser ser mejorados por la comunidad.
+                            </p>
+                            
+                            <h3>CÓDIGO</h3>
+                            <p style="text-align: left">
+                              Esta aplicación web  fue desarrollada utilizando el web framework <a href="https://shiny.rstudio.com/" target="_blank">Shiny</a>, un marco de desarrollo web de código abierto basado en el sofware libre y gratuito <a href="https://cran.r-project.org/" target="_blank">R</a>.
+                              La Shiny está organizada en módulos para facilitar la legibilidad del código y su escalabilidad. Fue utilizado un template HTML cuyo tema es realizado por <a href="https://colorlib.com">Colorlib</a>. 
+                              
+El código fuente está disponible en <a href = "https://github.com/calcita/compras_publicas" target = "_blank">GitHub</a>.
+                              
+                            </p> 
+                            
+                             <h3>QUIÉNES SOMOS</h3>
+                             <h5>EQUIPO</h5>
+                            <p>Rodrigo Ceni (FCEA, UdelaR)</p>
+                            <p>Eliana Álvarez (CIVICO Uruguay)</p>
+                            <p>Román Sugo (CIVICO Uruguay)</p> 
+                            <p>Federico Scalese (FCEA, UdelaR)</p>
+                            <p>Victor Koleszar (CIVICO Uruguay)</p>
+                            <h5>DESARROLLADORA</h5>
+                            <p> <a href = "https://gabrielamathieu.rbind.io/" target = "_blank"> Gabriela Mathieu </a> </p>
+                            <div class="row">
+  <div class="column">
+    <img src="images/dep_economiaFCEA_rgb.png" alt="FCEA" style="width:80%">
+  </div>
+  <div class="column">
+    <img src="images/logo_anii.png" alt="ANII" style="width:80%">
+  </div>
+  <div class="column">
+    <img src="images/civico.png" alt="CIVICO" style="width:80%">
+  </div>
+</div> 
+                      </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 pull-right">
+                        <ul class="social-menu text-right x-left">
+                            <!--li><a href="#"><i class="ti-facebook"></i></a></li>
+                            <li><a href="#"><i class="ti-twitter"></i></a></li>
+                            <li><a href="#"><i class="ti-google"></i></a></li-->
+                            <li><a href="https://github.com/calcita/compras_publicas" target="_blank"><i class="ti-github"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <p>
+                          Este trabajo esta licenciado bajo la licencia Creative Commons Attribution-ShareAlike 4.0 International License. Términos y condiciones
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <!--Vendor-JS-->
+    <script src="js/vendor/bootstrap.min.js"></script>
+    <!--Plugin-JS-->
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/contact-form.js"></script>
+    <script src="js/jquery.parallax-1.1.3.js"></script>
+    <script src="js/scrollUp.min.js"></script>
+    <script src="js/magnific-popup.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.sparkline/2.1.2/jquery.sparkline.min.js"></script>
+    <!--Main-active-JS-->
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
